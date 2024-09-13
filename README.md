@@ -29,8 +29,6 @@ No linux, o mesmo processo acontece mas através de comandos diferentes, a forma
 
 - Totalmente open source (todo mundo pode contribuir para o projeto)
 
-- De graca
-
 - Facil para instalar pacotes e aplicativos sem precisar acessar milhares de sites
 
 - Mais seguranca, o Linux não fica enviando seus dados para as empresas
